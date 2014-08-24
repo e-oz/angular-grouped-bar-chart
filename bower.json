@@ -1,6 +1,6 @@
 {
   "name": "angular-grouped-bar-chart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/jamm/angular-grouped-bar-chart",
   "authors": [
     "OZ <normandiggs@gmail.com>"
@@ -13,5 +13,14 @@
     "d3",
     "multibarchart"
   ],
+  "dependencies": {
+    "angular": "latest",
+    "jquery": "latest",
+    "lodash": "latest",
+    "d3": "latest",
+    "d3-tip": "latest",
+    "angular-oz-color-iterator": "latest",
+    "angular-d3-chart-sizer": "latest"
+  },
   "license": "MIT"
 }
