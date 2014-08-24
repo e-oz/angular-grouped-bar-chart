@@ -15,7 +15,7 @@ AngularJS directive to draw bar chart with D3
  - axisOffsetX, Y - offsets for X and Y axis
  - labelFormatter - function will be called on tooltip rendering (on mouseover) and should return text (html) for label. Otherwise, label will be compiled from fields 'label' and 'value' (if field 'label' is defined) as 'label: value', or just from given value, if 'label' is not declared.
  - ngModel - data for chart. Should be in format:
-   ```
+```
 	 {
 	   values:[
 		   points: [
@@ -40,4 +40,4 @@ AngularJS directive to draw bar chart with D3
 		 ]
 	   yAxisTitle: 'y axis'
 	 }
-   ```
+```
