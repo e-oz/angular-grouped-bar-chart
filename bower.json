@@ -1,0 +1,17 @@
+{
+  "name": "angular-grouped-bar-chart",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jamm/angular-grouped-bar-chart",
+  "authors": [
+    "OZ <normandiggs@gmail.com>"
+  ],
+  "description": "AngularJS directive to draw (D3) bar chart with multiple bars for each point",
+  "main": "groupedBarChart.js",
+  "keywords": [
+    "barchart",
+    "angular",
+    "d3",
+    "multibarchart"
+  ],
+  "license": "MIT"
+}
